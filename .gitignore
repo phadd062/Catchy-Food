@@ -1,0 +1,11 @@
+.vscode/
+env/
+frontend/node_modules/
+shop/settings_env/
+.env
+__pycache__/
+*.pyc
+*#
+*.swp
+*.swo
+.DS_Store

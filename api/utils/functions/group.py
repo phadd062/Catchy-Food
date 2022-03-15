@@ -1,0 +1,5 @@
+ADMIN = 'admin'
+HUBLEAD = 'hublead'
+DEPARTMENTLEAD = 'departmentlead'
+EDITOR = 'editor'
+VIEWER = 'viewer'
